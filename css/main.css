@@ -58,6 +58,7 @@ h1{
   border: 1px solid aliceblue;
   cursor: pointer;
   border-radius: 1.2px;
+  border: 0;
 }
 
 .pixel:hover {
@@ -109,7 +110,8 @@ align-items: center;
 }
 
 
-footer{
+.footer {
+  display: flex;
   justify-content: flex-end;
 }
 
