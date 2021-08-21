@@ -1,5 +1,5 @@
 # Etch-a-Sketch
-Odin Project based project to learn DOM manipulation to practice DOM manipulation.
+Odin Project based project to practice DOM manipulation.
 
 
 
